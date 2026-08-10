@@ -10,22 +10,20 @@ Atualmente, estou aprofundando meus conhecimentos em React, Node.js e bancos de 
 
 **Front-end**
 
-![React](https://img.shields.io/badge/React-2f3742?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-2f3742?style=for-the-badge\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-2f3742?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-2f3742?style=for-the-badge\&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2f3742?style=for-the-badge\&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 **Back-end**
 
-![Node.js](https://img.shields.io/badge/Node.js-2f3742?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-2f3742?style=for-the-badge\&logo=express)
+![Node.js](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23000000?style=for-the-badge\&logo=express\&logoColor=white)
 
 **Banco de dados**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-2f3742?style=for-the-badge\&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/Mongoose-2f3742?style=for-the-badge\&logo=mongoose)
-![PostgreSQL](https://img.shields.io/badge/PostgreSql-2f3742?style=for-the-badge\&logo=postgresql&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-%23880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
 
 ---
 
@@ -49,10 +47,10 @@ Sistema completo com operações de criação, leitura, atualização e exclusã
 
 Stack utilizada:
 
-![React](https://img.shields.io/badge/React-2f3742?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-2f3742?style=for-the-badge\&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-2f3742?style=for-the-badge\&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2f3742?style=for-the-badge\&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 Principais pontos:
 
@@ -76,7 +74,7 @@ Interesses atuais:
 
 ## Contato
 
-* LinkedIn: www.linkedin.com/in/guilherme-augusto-brito-b8546a1ab
+* LinkedIn: http://www.linkedin.com/in/guilherme-augusto-brito-b8546a1ab
 
 ---
 
