@@ -25,6 +25,7 @@ Atualmente, estou aprofundando meus conhecimentos em React, Node.js e bancos de 
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/mongoose-%23880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
