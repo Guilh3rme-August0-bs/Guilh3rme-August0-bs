@@ -11,7 +11,8 @@ Atualmente, estou aprofundando meus conhecimentos em React, Node.js e bancos de 
 **Front-end**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge\&logo=angular\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge\&logo=typescript\&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
