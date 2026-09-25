@@ -20,6 +20,7 @@ Atualmente, estou aprofundando meus conhecimentos em React, Node.js e bancos de 
 
 ![Node.js](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23920919?style=for-the-badge\&logo=laravel\&logoColor=white)
 
 **Banco de dados**
 
