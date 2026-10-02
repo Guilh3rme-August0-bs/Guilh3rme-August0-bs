@@ -29,6 +29,7 @@ Atualmente, estou aprofundando meus conhecimentos em React, Node.js e bancos de 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilh3rme-August0-bs&layout=compact&theme=dracula)](https://github.com/EthanJamesLew/github-readme-stats-academic)
 
 ## Projetos em destaque
 
