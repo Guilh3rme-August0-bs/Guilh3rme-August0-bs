@@ -1,8 +1,8 @@
 # Guilherme Augusto
 
-Desenvolvedor focado na construção de interfaces modernas e aplicações web completas, com experiência prática em projetos full stack.
+Desenvolvedor focado na construção de aplicações web completas, com experiência prática em projetos full stack.
 
-Atualmente, estou aprofundando meus conhecimentos em React, Node.js e bancos de dados, com foco em evoluir de projetos funcionais para aplicações com estrutura e qualidade profissional.
+Atualmente, estou aprofundando meus conhecimentos em Laravel, Angular, e alguns fundamentos de deploy e cloud computing, com foco em evoluir de projetos funcionais para aplicações com estrutura e qualidade profissional.
 
 ---
 
